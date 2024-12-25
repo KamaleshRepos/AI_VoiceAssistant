@@ -6,7 +6,10 @@ This project is an AI-powered voice assistant designed to enhance home automatio
 
 The system integrates a **LiveKit server** for real-time communication and uses **OpenAI's API** to process natural language inputs and generate intelligent responses.  
 
-![AI_voiceassistant](https://pixabay.com/illustrations/ai-generated-family-8365787/)
+![](https://github.com/user-attachments/assets/17714f1c-6479-4ad5-b970-572a54913712)
+
+
+
 
 ---
 
